@@ -1,0 +1,23 @@
+{
+  "name": "expresscrash",
+  "version": "1.0.0",
+  "description": "simple customer management app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Cameron",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "express-validation": "^1.0.2",
+    "express-validator": "^5.0.3",
+    "validator": "^9.4.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "learn"
+  ]
+}
